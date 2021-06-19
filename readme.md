@@ -1,6 +1,6 @@
 # Fastify Crash Course API
 
-This is the item API from my YouTube crash course
+This is the item API from YouTube crash course
 
 ## Usage
 
